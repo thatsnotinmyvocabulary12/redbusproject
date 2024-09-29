@@ -74,6 +74,4 @@
 * import datetime
 * from streamlit_option_menu import option_menu
 * from selenium import webdriver
-
- screenshot 1.png
- screenshot 2.png
+https://github.com/thatsnotinmyvocabulary12/redbusproject/blob/main/screenshot%202.png
